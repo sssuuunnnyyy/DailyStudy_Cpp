@@ -42,5 +42,26 @@
 //	}
 //}
 // 
-// 
+
+//#Programmers 
+//https ://programmers.co.kr/learn/courses/30/lessons/86051
+//
+//#include <string>
+//#include <vector>
+//
+//using namespace std;
+//
+//int solution(vector<int> numbers) {
+//    int answer = -1;
+//    int ttl_sum = 0;
+//
+//
+//    for (int index = 0; index < numbers.size(); ++index)
+//    {
+//        ttl_sum += numbers[index];
+//    }
+//    answer = 45 - ttl_sum;
+//    return answer;
 //}
+//// 
+////}
